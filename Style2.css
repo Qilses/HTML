@@ -1,0 +1,25 @@
+header ul {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #ccc;
+    padding: 10px;
+    word-spacing: 10px;
+}
+
+header li {
+    display: inline; 
+    margin: 0 10px; 
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #ccc;
+    padding: 10px; 
+}
